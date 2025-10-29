@@ -1,0 +1,5 @@
+{
+  "name": "Schedule Timer",
+  "description": "An application to create, manage, and run a sequence of timers. Ideal for workouts, study sessions, or any activity requiring structured time intervals.",
+  "requestFramePermissions": []
+}
